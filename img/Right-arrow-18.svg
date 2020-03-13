@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <svg width="10px" height="16px" viewBox="0 0 10 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+        <!-- Generator: Sketch 60 (88103) - https://sketch.com -->
+        <title>Virtru icons/18/Left-arrow-18</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="home" transform="translate(-1349.000000, -30.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <g id="Group" transform="translate(1300.000000, 24.000000)">
+                    <g id="Virtru-icons/18/Right-arrow-18" transform="translate(45.000000, 5.000000)">
+                        <path d="M15.2196699,5.09466991 C15.5125631,4.8017767 15.9874369,4.8017767 16.2803301,5.09466991 C16.5732233,5.38756313 16.5732233,5.86243687 16.2803301,6.15533009 L9.53033009,12.9053301 C9.23743687,13.1982233 8.76256313,13.1982233 8.46966991,12.9053301 L1.71966991,6.15533009 C1.4267767,5.86243687 1.4267767,5.38756313 1.71966991,5.09466991 C2.01256313,4.8017767 2.48743687,4.8017767 2.78033009,5.09466991 L9,11.3143398 L15.2196699,5.09466991 Z" id="Icon" transform="translate(9.000000, 9.000000) rotate(-90.000000) translate(-9.000000, -9.000000) "></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </svg>

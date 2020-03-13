@@ -1,0 +1,152 @@
+#grabbly-parent {
+    padding: 0;
+    margin: 0;
+    width: 35px;
+
+}
+#grabbly-iframe {
+    position: fixed;
+    width: 35px;
+    z-index: 8675309;
+    display: block;
+    top: 90px;
+    left: 0px;
+    height: 60px;
+    border-width: 0 !important;
+    margin: 0;
+    padding: 0;
+    border-top-right-radius: 4px !important;
+    border-bottom-right-radius: 4px !important;
+    border-left: none !important;
+}
+
+#overlayhover {
+	position: absolute;
+	border: 2px dashed #4A3A9B;
+	/*  ackground-color: rgba(0,0,0,0.5); */
+	z-index: 2147483647;
+	pointer-events:none;
+}
+
+.overlay {
+	position: absolute;
+	z-index: 2147483647;
+	pointer-events:none;
+}
+
+#overlayselected, .selected-image {
+	position: absolute;
+	background-color: rgba(0,0,0,0.2);
+	z-index: 2147483647;
+	pointer-events:none;
+}
+#template-image-dropdown{
+    display: none;
+}
+.image-dropdown {
+    position: absolute;
+}
+
+.grabbly-address {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: rgb(102, 102, 102) !important;
+}
+.grabbly-email {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: rgb(102, 102, 102) !important;
+}
+.grabbly-phone {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: rgb(102, 102, 102) !important;
+}
+.grabbly-detail {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: deeppink !important;
+    z-index: 999998;
+    box-shadow: deeppink 0px 0px 1px 1px !important;
+}
+.grabbly-detail-selected {
+    border-width: 3px !important;
+    border-style: solid !important;
+    border-color: #d571ff !important;
+    z-index: 999998;
+    box-shadow: deeppink 0px 0px 1px 1px !important;
+}
+.grabbly-row {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: #00FFFF !important;
+    z-index: 999998;
+    box-shadow: #00FFFF 0px 0px 1px 1px !important;
+}
+.grabbly-row-2 {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: #00FFFF !important;
+    z-index: 999998;
+    box-shadow: #00FFFF 0px 0px 1px 1px !important;
+}
+.grabbly-column {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: #01ff70 !important;
+    z-index: 999998;
+    box-shadow: #01ff70 0px 0px 1px 1px !important;
+}
+.grabbly-column-hover {
+    background-color: #01ff70 !important;
+    z-index: 999998;
+}
+.grabbly-column-selected {
+    border-width: 3px !important;
+    border-style: solid !important;
+    border-color: #d571ff !important;
+    z-index: 999998;
+    box-shadow: #01ff70 0px 0px 1px 1px !important;
+}
+.grabbly-navigate {
+    border-width: 1px !important;
+    border-style: solid !important;
+    /*border-color: rgb(102, 102, 102) !important;*/
+    border-color: #FD5F00 !important;
+    z-index: 999998;
+    box-shadow: #FD5F00 0px 0px 1px 1px !important;
+}
+.grabbly-navigate-selected {
+    border-width: 3px !important;
+    border-style: solid !important;
+    /*border-color: rgb(102, 102, 102) !important;*/
+    border-color: #d571ff !important;
+    z-index: 999998;
+    box-shadow: #FD5F00 0px 0px 1px 1px !important;
+}
+.grabbly-action {
+    border-width: 1px !important;
+    border-style: solid !important;
+    /*border-color: rgb(102, 102, 102) !important;*/
+    border-color: #c32aff !important;
+    z-index: 999998;
+    box-shadow: #c32aff 0px 0px 1px 1px !important;
+}
+#datagasm-parent {
+    /*border-radius: 16px;*/
+    border-color: lightgrey;
+    border-style: solid;
+    border-width: 1px;
+    top: 0px;
+    right:0;
+    height: 100%;
+    width: 31%;
+    /*padding-left: 0.25em;*/
+    position: fixed;
+    z-index: 2147483648;
+    background-color: black;
+}
+#datagasm-iframe {
+    height: 100%;
+    width: 100%;
+}
